@@ -1,3 +1,18 @@
+<p align="left">
+
+<a href="https://github.com/mastubaraDaisuke/github-readme-stats">
+  <img  src="https://github-readme-stats.vercel.app/api?username=matsubaraDaisuke&count_private=true&show_icons=true" />
+</a>
+</p>
+<p align="left">
+<a href="https://github.com/mastubaraDaisuke/github-readme-stats">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsubaraDaisuke" />
+</a>
+</p>
+<p align="left">
+
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
@@ -9,10 +24,3 @@
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
 
  </p>
-<br/>
-<a href="https://github.com/mastubaraDaisuke/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=matsubaraDaisuke&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/mastubaraDaisuke/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsubaraDaisuke" />
-</a>
