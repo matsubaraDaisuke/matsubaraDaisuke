@@ -33,3 +33,5 @@
  </a>
 <a href="https://www.paraview.org" target="_blank"> <img src="https://www.paraview.org/wp-content/uploads/2016/01/cropped-ParaView_Mark-270x270.png" alt="paraview" width="40" height="40"/> </a>
  </a>
+<a href="https://mathlab.github.io/PyGeM/index.html" target="_blank"> <img src="https://mathlab.github.io/PyGeM/_images/logo_PyGeM.png" alt="pygem" width="40" height="40"/> </a>
+ </a>
