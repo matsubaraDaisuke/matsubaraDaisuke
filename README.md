@@ -27,6 +27,8 @@
  </a>
  <a href="https://strapi.io" target="_blank"> <img src="https://strapi.io/assets/favicon-32x32.png" alt="paraview" width="40" height="40"/> </a>
  </a>
+ <a href="https://storybook.js.org" target="_blank"> <img src="https://github.com/storybookjs/brand/blob/main/icon/icon-storybook-default.svg" alt="storybook" width="40" height="40"/></a>
+ </a>
 <a href="https://www.openfoam.com" target="_blank"> <img src="https://www.openfoam.com/themes/bs4esi/favicons/apple-touch-icon.png" alt="openfoam" width="40" height="40"/> </a>
  </a>
 <a href="https://www.salome-platform.org" target="_blank"> <img src="https://www.salome-platform.org/favicon.ico" alt="salome" width="40" height="40"/> </a>
