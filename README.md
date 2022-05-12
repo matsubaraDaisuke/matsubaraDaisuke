@@ -37,7 +37,7 @@
  </a>
 <a href="https://mathlab.github.io/PyGeM/index.html" target="_blank"> <img src="https://mathlab.github.io/PyGeM/_images/logo_PyGeM.png" alt="pygem" width="40" height="40"/> </a>
  </a>
- <a href="https://spring.io" target="_blank"> <img src="https://www.javastaff.com/wp-content/uploads/2017/03/spring-boot-project-logo-720x340.png" alt="spring-boot" width="40" height="40"/> </a>
+ <a href="https://spring.io" target="_blank"> <img src="https://tono-n-chi.com/blog/wp-content/uploads/2015/07/SpringBoot.png" width="40" height="40"/> </a>
  </a>
 
 
