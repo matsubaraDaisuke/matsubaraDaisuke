@@ -33,7 +33,7 @@
  </a>
 <a href="https://www.salome-platform.org" target="_blank"> <img src="https://www.salome-platform.org/wp-content/uploads/2022/01/S_color_alpha.ico" alt="salome" width="40" height="40"/> </a>
  </a>
-<a href="https://www.paraview.org" target="_blank"> <img src="https://www.paraview.org/wp-content/uploads/2016/01/cropped-ParaView_Mark-270x270.png" alt="paraview" width="40" height="40"/> </a>
+<a href="https://www.paraview.org" target="_blank"> <img src="https://www.paraview.org/favicon.ico" alt="paraview" width="40" height="40"/> </a>
  </a>
 <a href="https://mathlab.github.io/PyGeM/index.html" target="_blank"> <img src="https://mathlab.github.io/PyGeM/_images/logo_PyGeM.png" alt="pygem" width="40" height="40"/> </a>
  </a>
